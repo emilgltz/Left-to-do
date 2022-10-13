@@ -2,7 +2,7 @@
 ## Instruktioner
 ### Konsolapplikationen kräver att din dator har .NET SDK installerat
 1. Klona ner repot från den nuvarande git-sidan
-2. Öppna mappen "Left-to-do" via en terminal
+2. Öppna mappen "Left-to-do/src" via en terminal
 3. Starta applikltionen genom att skriva in kommandot `dotnet run` i terminalen
 4.Följ sedan applikationens instruktioner
 
